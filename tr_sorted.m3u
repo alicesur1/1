@@ -497,148 +497,148 @@ https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 ############################
 # SD - Haber
 ############################
-#EXTINF:-1 group-title="Haber",ARAS TV [Not 24/7] (SD)
+#EXTINF:-1 group-title="Haber",ARAS TV [Not 24/7] (SD) (SD)
 http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
-#EXTINF:-1 group-title="Haber",ATV Avrupa [Not 24/7] (SD)
+#EXTINF:-1 group-title="Haber",ATV Avrupa [Not 24/7] (SD) (SD)
 https://streamer2.nexgen.bz/ATV/index.m3u8
-#EXTINF:-1 group-title="Haber",Haber Global (SD)
+#EXTINF:-1 group-title="Haber",Haber Global (SD) (SD)
 https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8
-#EXTINF:-1 group-title="Haber",Hunat TV [Not 24/7] (SD)
+#EXTINF:-1 group-title="Haber",Hunat TV [Not 24/7] (SD) (SD)
 https://59cba4d34b678.streamlock.net/canlitv/hunattv/playlist.m3u8
-#EXTINF:-1 group-title="Haber",Kanal 38 [Not 24/7] (SD)
+#EXTINF:-1 group-title="Haber",Kanal 38 [Not 24/7] (SD) (SD)
 http://yayin3.canlitv.com:1935/live/kanal38/playlist.m3u8
-#EXTINF:-1 group-title="Haber",Kanal B [Not 24/7] (SD)
+#EXTINF:-1 group-title="Haber",Kanal B [Not 24/7] (SD) (SD)
 http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
-#EXTINF:-1 group-title="Haber",Mercan TV [Not 24/7] (SD)
+#EXTINF:-1 group-title="Haber",Mercan TV [Not 24/7] (SD) (SD)
 https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
-#EXTINF:-1 group-title="Haber",Öncü TV [Not 24/7] (SD)
+#EXTINF:-1 group-title="Haber",Öncü TV [Not 24/7] (SD) (SD)
 https://edge1.socialsmart.tv/oncurtv/bant1/playlist.m3u8
-#EXTINF:-1 group-title="Haber",Satranç TV [Not 24/7] (SD)
+#EXTINF:-1 group-title="Haber",Satranç TV [Not 24/7] (SD) (SD)
 http://139.162.182.79/live/test/index.m3u8
-#EXTINF:-1 group-title="Haber",TGRT Belgesel TV [Not 24/7] (SD)
+#EXTINF:-1 group-title="Haber",TGRT Belgesel TV [Not 24/7] (SD) (SD)
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
-#EXTINF:-1 group-title="Haber",TGRT Haber [Not 24/7] (SD)
+#EXTINF:-1 group-title="Haber",TGRT Haber [Not 24/7] (SD) (SD)
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
-#EXTINF:-1 group-title="Haber",TV 38 [Not 24/7] (SD)
+#EXTINF:-1 group-title="Haber",TV 38 [Not 24/7] (SD) (SD)
 https://59cba4d34b678.streamlock.net/live/tv38/playlist.m3u8
-#EXTINF:-1 group-title="Haber",TV Den [Not 24/7] (SD)
+#EXTINF:-1 group-title="Haber",TV Den [Not 24/7] (SD) (SD)
 http://canli.tvden.com.tr/hls/live.m3u8
 
 ############################
 # SD - Spor
 ############################
-#EXTINF:-1 group-title="Spor",A Spor (SD)
+#EXTINF:-1 group-title="Spor",A Spor (SD) (SD)
 https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
-#EXTINF:-1 group-title="Spor",S Sport (SD)
+#EXTINF:-1 group-title="Spor",S Sport (SD) (SD)
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-#EXTINF:-1 group-title="Spor",S Sport (SD)
+#EXTINF:-1 group-title="Spor",S Sport (SD) (SD)
 https://gknnowtv.onrender.com/ss1.m3u8
-#EXTINF:-1 group-title="Spor",S Sport 2 (SD)
+#EXTINF:-1 group-title="Spor",S Sport 2 (SD) (SD)
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-#EXTINF:-1 group-title="Spor",S Sport 2 (SD)
+#EXTINF:-1 group-title="Spor",S Sport 2 (SD) (SD)
 https://gknnowtv.onrender.com/ss2.m3u8
 
 ############################
 # SD - Genel
 ############################
-#EXTINF:-1 group-title="Genel",A2TV (SD)
+#EXTINF:-1 group-title="Genel",A2TV (SD) (SD)
 https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8
-#EXTINF:-1 group-title="Genel",A Türk Izmir (SD)
+#EXTINF:-1 group-title="Genel",A Türk Izmir (SD) (SD)
 https://vdo.digitalbox.xyz:3807/stream/play.m3u8
-#EXTINF:-1 group-title="Genel",Almahriah TV (SD)
+#EXTINF:-1 group-title="Genel",Almahriah TV (SD) (SD)
 https://starmenajo.com/hls/almahriah/index.m3u8
-#EXTINF:-1 group-title="Genel",ATV (SD)
+#EXTINF:-1 group-title="Genel",ATV (SD) (SD)
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
-#EXTINF:-1 group-title="Genel",ATV (SD)
+#EXTINF:-1 group-title="Genel",ATV (SD) (SD)
 http://89.187.191.41/ATV-HD-TR/video.m3u8
-#EXTINF:-1 group-title="Genel",ATV (SD)
+#EXTINF:-1 group-title="Genel",ATV (SD) (SD)
 http://116.202.238.88/ATV_TR/index.m3u8
-#EXTINF:-1 group-title="Genel",Beşiktaş Web TV (SD)
+#EXTINF:-1 group-title="Genel",Beşiktaş Web TV (SD) (SD)
 https://s01.vpis.io/besiktas/besiktas.m3u8
-#EXTINF:-1 group-title="Genel",Bursa AS TV (SD)
+#EXTINF:-1 group-title="Genel",Bursa AS TV (SD) (SD)
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
-#EXTINF:-1 group-title="Genel",CGTN Documentary (SD)
+#EXTINF:-1 group-title="Genel",CGTN Documentary (SD) (SD)
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
-#EXTINF:-1 group-title="Genel",CNBC-e (SD)
+#EXTINF:-1 group-title="Genel",CNBC-e (SD) (SD)
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
-#EXTINF:-1 group-title="Genel",Dost TV (SD)
+#EXTINF:-1 group-title="Genel",Dost TV (SD) (SD)
 https://dost.stream.emsal.im/tv/live.m3u8
-#EXTINF:-1 group-title="Genel",Euro D (SD)
+#EXTINF:-1 group-title="Genel",Euro D (SD) (SD)
 https://viamotionhsi.netplus.ch/live/eds/eurod/browser-dash/eurod.mpd
-#EXTINF:-1 group-title="Genel",EuroStar (SD)
+#EXTINF:-1 group-title="Genel",EuroStar (SD) (SD)
 https://gknnowtv.onrender.com/eurostar.m3u8
-#EXTINF:-1 group-title="Genel",FB TV (SD)
+#EXTINF:-1 group-title="Genel",FB TV (SD) (SD)
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Genel",Fortuna TV (SD)
+#EXTINF:-1 group-title="Genel",Fortuna TV (SD) (SD)
 https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
-#EXTINF:-1 group-title="Genel",GRT (SD)
+#EXTINF:-1 group-title="Genel",GRT (SD) (SD)
 https://live.artidijitalmedya.com/artidijital_grt/grt1/playlist.m3u8
-#EXTINF:-1 group-title="Genel",Kay TV [Geo-blocked] (SD)
+#EXTINF:-1 group-title="Genel",Kay TV [Geo-blocked] (SD) (SD)
 https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/playlist.m3u8
-#EXTINF:-1 group-title="Genel",Kay TV [Geo-blocked] (SD)
+#EXTINF:-1 group-title="Genel",Kay TV [Geo-blocked] (SD) (SD)
 https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8
-#EXTINF:-1 group-title="Genel",Kudüs TV [Geo-blocked] (SD)
+#EXTINF:-1 group-title="Genel",Kudüs TV [Geo-blocked] (SD) (SD)
 https://yayin.kudustv.com/981680400/kudustv/playlist.m3u8
-#EXTINF:-1 group-title="Genel",MovieSmart Turk (SD)
+#EXTINF:-1 group-title="Genel",MovieSmart Turk (SD) (SD)
 http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174
-#EXTINF:-1 group-title="Genel",NOW TV (SD)
+#EXTINF:-1 group-title="Genel",NOW TV (SD) (SD)
 http://116.202.238.88/FOXTV_TR/index.m3u8
-#EXTINF:-1 group-title="Genel",Number 1 Dance (SD)
+#EXTINF:-1 group-title="Genel",Number 1 Dance (SD) (SD)
 http://wms.brtk.net:1935/live/brt1/playlist.m3u8
-#EXTINF:-1 group-title="Genel",Ogün TV (SD)
+#EXTINF:-1 group-title="Genel",Ogün TV (SD) (SD)
 https://s01.vpis.io/ogun/ogun.m3u8
-#EXTINF:-1 group-title="Genel",Pamukkale TV (SD)
+#EXTINF:-1 group-title="Genel",Pamukkale TV (SD) (SD)
 http://ms1.sanlisoy.com:1935/pamukkaletv/pamukkaletv/playlist.m3u8
-#EXTINF:-1 group-title="Genel",Sarıyer TV (SD)
+#EXTINF:-1 group-title="Genel",Sarıyer TV (SD) (SD)
 https://s01.vpis.io/sariyer/sariyer.m3u8
-#EXTINF:-1 group-title="Genel",Show Max (SD)
+#EXTINF:-1 group-title="Genel",Show Max (SD) (SD)
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/showmax.m3u8
-#EXTINF:-1 group-title="Genel",Sinop Yildiz TV (SD)
+#EXTINF:-1 group-title="Genel",Sinop Yildiz TV (SD) (SD)
 https://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
-#EXTINF:-1 group-title="Genel",Tarih TV (SD)
+#EXTINF:-1 group-title="Genel",Tarih TV (SD) (SD)
 https://tv1.arectv30.sbs/live/tarihtv.m3u8
-#EXTINF:-1 group-title="Genel",Tek Rumeli TV (SD)
+#EXTINF:-1 group-title="Genel",Tek Rumeli TV (SD) (SD)
 https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8
-#EXTINF:-1 group-title="Genel",TGRT Europe (SD)
+#EXTINF:-1 group-title="Genel",TGRT Europe (SD) (SD)
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
-#EXTINF:-1 group-title="Genel",TMB (SD)
+#EXTINF:-1 group-title="Genel",TMB (SD) (SD)
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m3u8
-#EXTINF:-1 group-title="Genel",TRT 3 (SD)
+#EXTINF:-1 group-title="Genel",TRT 3 (SD) (SD)
 https://tv-trt3.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Genel",TRT Turk (SD)
+#EXTINF:-1 group-title="Genel",TRT Turk (SD) (SD)
 https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-dash/trtturk.mpd
-#EXTINF:-1 group-title="Genel",TRT Turk (SD)
+#EXTINF:-1 group-title="Genel",TRT Turk (SD) (SD)
 https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-HLS8/trtturk.m3u8
-#EXTINF:-1 group-title="Genel",TRT World HD (SD)
+#EXTINF:-1 group-title="Genel",TRT World HD (SD) (SD)
 https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
-#EXTINF:-1 group-title="Genel",TYT Turk (SD)
+#EXTINF:-1 group-title="Genel",TYT Turk (SD) (SD)
 https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
-#EXTINF:-1 group-title="Genel",Vav TV (SD)
+#EXTINF:-1 group-title="Genel",Vav TV (SD) (SD)
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
-#EXTINF:-1 group-title="Genel",Viasat Explore (SD)
+#EXTINF:-1 group-title="Genel",Viasat Explore (SD) (SD)
 https://tv.arectv29.sbs/live/viasathistory.m3u8
 
 ############################
 # SD - Müzik
 ############################
-#EXTINF:-1 group-title="Müzik",PowerTurk TV (SD)
+#EXTINF:-1 group-title="Müzik",PowerTurk TV (SD) (SD)
 https://powerturk.blutv.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8
 
 ############################
 # SD - Çocuk
 ############################
-#EXTINF:-1 group-title="Çocuk",Minika Cocuk (SD)
+#EXTINF:-1 group-title="Çocuk",Minika Cocuk (SD) (SD)
 https://tgn.bozztv.com/dvrfl05/gin-minikacocuk/index.m3u8
-#EXTINF:-1 group-title="Çocuk",Minika Cocuk (SD)
+#EXTINF:-1 group-title="Çocuk",Minika Cocuk (SD) (SD)
 https://trkvz-live.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8
-#EXTINF:-1 group-title="Çocuk",Minika Go (SD)
+#EXTINF:-1 group-title="Çocuk",Minika Go (SD) (SD)
 https://tgn.bozztv.com/dvrfl05/gin-minikago/index.m3u8
-#EXTINF:-1 group-title="Çocuk",Minika Go (SD)
+#EXTINF:-1 group-title="Çocuk",Minika Go (SD) (SD)
 https://trkvz-live.daioncdn.net/minikago/minikago.m3u8
 
 ############################
 # SD - Belgesel
 ############################
-#EXTINF:-1 group-title="Belgesel",TGRT Belgesel TV (SD)
+#EXTINF:-1 group-title="Belgesel",TGRT Belgesel TV (SD) (SD)
 https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
 
